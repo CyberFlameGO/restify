@@ -12,6 +12,6 @@ require (
 	github.com/sergi/go-diff v1.0.0 // indirect
 	github.com/stretchr/testify v1.4.0 // indirect
 	github.com/yhat/scrape v0.0.0-20161128144610-24b7890b0945
-	golang.org/x/net v0.0.0-20171207222016-dc871a5d77e2
+	golang.org/x/net v0.17.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.5
 )
